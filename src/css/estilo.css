@@ -163,3 +163,7 @@ input, select {
     text-decoration: line-through;
     font-style: italic;
 }
+
+.hidden {
+    display: none;
+}
